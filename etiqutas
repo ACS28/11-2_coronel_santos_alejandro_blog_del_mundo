@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+    <title> Etiquetas </title>
+
+<head>
+ <h1> Etiquetas</h1> 
+</head>
+<body>
+    <!-- empieza el seccion-->
+    <section>
+        <!-- div 1-->
+         <div> 
+          <main>  <h1>funcionamiento de section </h1> </main>
+           <article> <p>su funcionamiento sirve para crear diviciones en una pagina web</p> </article>
+         </div> 
+         <!-- div2-->
+         <div>
+           <main> <h1>definicion de div </h1></main>
+           <article> <p> su definicion es como section pero sirve como una sub seccion aunque si no tiene section igual sirve</p></article>
+         </div>
+         <!-- div3-->
+         <div>
+            <header>
+              <main></main>
+                <article></article>
+            </header>
+         </div>
+         <!-- div4-->
+            <div>
+            <header>
+                <main></main>
+                <article></article>
+            </header>
+            </div>
+            <!-- div5-->
+            <div>
+             <header>
+                <main></main>
+                <article></article>
+            </header>
+            </div>
+    </section>
+</body>
+</html>
+<!---->
