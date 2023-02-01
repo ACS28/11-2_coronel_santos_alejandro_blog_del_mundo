@@ -19,3 +19,11 @@ article{
 .arti{
     background-color: rgb(44, 43, 43);
 }
+article{
+    padding: 1.5rem;
+}
+article{
+  border-bottom-width: 1px;
+  border-bottom-color: white;
+  border-bottom-style: solid;
+}
